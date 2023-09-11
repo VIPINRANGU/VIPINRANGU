@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is VIPIN_RANGU </h2>
 
 ###
 
@@ -44,8 +44,6 @@
 
 <img src="https://raw.githubusercontent.com/VIPINRANGU/VIPINRANGU/output/snake.svg" alt="Snake animation" />
 
-###
-### Hi there 👋
 
 <!--
 **VIPINRANGU/VIPINRANGU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
