@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vipin Rangu</h1>
 <h3 align="center">A Curious and Passionate Engineer from India</h3>
 
+<img align="right" alt="coding" width="200" src="https://github.com/VIPINRANGU/VIPINRANGU/blob/main/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinrangu&label=Profile%20views&color=0e75b6&style=flat" alt="vipinrangu" /> </p>
 
 - 🌱 I’m currently learning **Course on Machine Learning**
